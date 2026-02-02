@@ -27,9 +27,25 @@ Hi — I'm **Abinesh**, a web development intern from Kanyakumari, India. I buil
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abinesh00173&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" alt="GitHub stats" />
+<p>
+  <a href="https://github.com/Abinesh00173" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api?username=Abinesh00173&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" alt="GitHub stats" onerror="this.onerror=null; this.src='fallback_image_url_here';" />
+  </a>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinesh00173&layout=compact&theme=dracula" alt="Top languages" />
+<p>
+  <a href="https://github.com/Abinesh00173" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abinesh00173" alt="Profile Summary" onerror="this.onerror=null; this.src='fallback_image_url_here';" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/Abinesh00173" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinesh00173&layout=compact&theme=dracula" alt="Top languages" onerror="this.onerror=null; this.src='fallback_image_url_here';" />
+  </a>
+</p>
+
+If the images still don't show, view your GitHub profile stats directly: https://github.com/Abinesh00173
 
 ---
 
@@ -47,7 +63,7 @@ Take a look at my repositories to see projects I'm working on and technologies I
 
 ## Contact
 
-- GitHub: [@Abinesh00173](https://github.com/Abinesh00173)
+- GitHub: [@Abinesh00173](https://github.com/Abinesh00173)  
 - Email: (add your email here if you want to share it)
 
 ---
