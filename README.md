@@ -25,27 +25,28 @@ Hi — I'm **Abinesh**, a web development intern from Kanyakumari, India. I buil
 
 ---
 
-## GitHub Stats
+## GitHub Stats (dark-themed / local images)
 
-<p>
-  <a href="https://github.com/Abinesh00173" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=Abinesh00173&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" alt="GitHub stats" onerror="this.onerror=null; this.src='fallback_image_url_here';" />
-  </a>
+<!-- The workflow will fetch these images and commit them to assets/stats/ so they are served by GitHub directly. -->
+
+<p align="center">
+  <!-- Local images (populated by the workflow). If they don't exist yet, viewers will see the fallback link below. -->
+  <img src="assets/stats/github-stats.png" alt="GitHub stats" style="max-width:100%;border-radius:8px;" />
 </p>
 
-<p>
-  <a href="https://github.com/Abinesh00173" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abinesh00173" alt="Profile Summary" onerror="this.onerror=null; this.src='fallback_image_url_here';" />
-  </a>
+<p align="center">
+  <img src="assets/stats/top-langs.png" alt="Top languages" style="max-width:320px;border-radius:6px;" />
 </p>
 
-<p>
-  <a href="https://github.com/Abinesh00173" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinesh00173&layout=compact&theme=dracula" alt="Top languages" onerror="this.onerror=null; this.src='fallback_image_url_here';" />
-  </a>
+<p align="center">
+  <!-- Dark-themed badges to match dark UI look -->
+  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React badge" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js badge" />
+  <img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript badge" />
+  <img src="https://img.shields.io/badge/Testing-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest badge" />
 </p>
 
-If the images still don't show, view your GitHub profile stats directly: https://github.com/Abinesh00173
+If the images don't appear yet (first run), view your GitHub profile stats directly: https://github.com/Abinesh00173
 
 ---
 
