@@ -101,8 +101,8 @@ From Tamil Nadu, India. I enjoy building things that work well and look good doi
 ### 📫 How to reach me
 
 - **Twitter / X** → [@yourhandle](https://x.com/yourhandle)
-- **LinkedIn** → [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Email** → your.preferred@email.com
+- **LinkedIn** → [linkedin.com/in/yourprofile](www.linkedin.com/in/abinesh-abi-643b21292)
+- **Email** → baskaranabinesh@email.com
 
 ### ⚡ Fun fact
 
